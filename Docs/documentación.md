@@ -8,4 +8,6 @@
 
 []lista de chequeo 2
 
+otra linea mas
+otro intento
 final del documento
