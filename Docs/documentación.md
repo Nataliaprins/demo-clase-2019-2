@@ -1,11 +1,11 @@
-#Titulo prncipal
+# Titulo prncipal
 
-*viñeta
+* viñeta
 
-##subtitulo 
+## subtitulo 
 
-[]lista de chequeo1
+- [ ] lista de chequeo1
 
-[]lista de chequeo 2
+- [ ] lista de chequeo 2
 
 final del documento
